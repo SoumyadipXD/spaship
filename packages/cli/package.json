@@ -1,12 +1,12 @@
 {
-  "name": "spashiptest",
+  "name": "spaship-beta",
   "description": "A command line interface for SPAship!",
-  "version": "1.2.1",
-  "author": "shrutianand",
+  "version": "2.0.0",
+  "author": "soumyadip chowdhury",
   "bin": {
     "spaship": "./bin/run"
   },
-  "homepage": "https://github.com/shruticode81/spaship/tree/master/packages/cli#readme",
+  "homepage": "https://github.com/SoumyadipXD/spaship/tree/master/packages/cli#readme",
   "bugs": "https://github.com/spaship/spaship/issues",
   "keywords": [
     "oclif"
@@ -15,7 +15,7 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shruticode81/spaship.git",
+    "url": "https://github.com/SoumyadipXD/spaship.git",
     "directory": "packages/cli"
   },
   "scripts": {
